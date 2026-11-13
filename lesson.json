@@ -1,0 +1,16 @@
+{
+  "lesson": 35,
+  "title": "Test and Deploy Your Multi-Agent App",
+  "application": "Testable Release Package",
+  "purpose": "Exercise a deterministic acceptance gate and a content-addressed cache before building a local release manifest.",
+  "exercise": "Run twice to observe cache_hit. Change the release identifier and confirm the old cache is not reused.",
+  "source_topics": [
+    "00-Prueba y despliega tu app multiagente.png",
+    "01-Test-the-App-at-Different-Layers.png",
+    "02-Test-Failure-Scenarios.png",
+    "03-Optimize-Performance-and-Caching.png",
+    "04-Package-a-Reproducible-Release.png",
+    "05-Configure-Hosting-and-Access.png",
+    "06-Monitor-Roll-Back-and-Iterate.png"
+  ]
+}
